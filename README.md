@@ -7,7 +7,7 @@ a repo for hosting tools i made for DB Xenoverse 2, originally hosted on animega
 A Tool to browse the CPK files that allows to extract specific files/folders.
 can also do some other niche stuff like repacking (M2C) and decrypting SDBH files
 
-=====================a====================================================
+=========================================================================
 
 **Photo Mode Tool** | Version 2.2 | [Link](https://mega.nz/file/04xRVaiR#qWG6sr_uq44vErlpIkLhrnMsyBc5-Ya-3OsDxAHuxaI "Link")
 
