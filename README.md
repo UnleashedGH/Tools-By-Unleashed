@@ -55,7 +55,7 @@ A Blender addon that can export camera animations directly to .cam.ean
 
 
 
-**Flow** | Version 0.0.3 | [Link](https://mega.nz/file/UlARkJzJ#Rkzqjw41yKknwGZ5rKRqr9pCEr-09be14diSHDTy5C8 "Link")
+**Flow** | Version 0.0.4 | [Link](https://mega.nz/file/I15CEAQC#FpGAC2XijK8Zmf-LixxxlVnDHR-LbrjGQN41PLojU2E "Link")
 
 Flow is a user-friendly, layer-based combo editor, made to create (or modify) BCM files for movesets
 
