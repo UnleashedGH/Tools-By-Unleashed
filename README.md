@@ -54,7 +54,7 @@ A Blender addon that can export camera animations directly to .cam.ean
 ==========================================================================
 
 
-**TTLNet** | Version 1.0 | [Link](https://mega.nz/file/cpBHiSRR#msNuLqrVj_G5il4sJenTdKbJxrDIhz-XzS-oAwMTIMY "Link")
+**TTLNet** | Version 1.1 | [Link](https://mega.nz/file/Y0xEiJhT#h3if7RN0ESYwjiF6z3h4AuSNirKNUg1rNIac_O9-KRY "Link")
 
 TTLNetwork (TTL is code name for Hero Colosseum) is a toolset that enables players to create custom battles for Hero Colosseum, upload them online, and for other players to browse and install them in their own game
 
