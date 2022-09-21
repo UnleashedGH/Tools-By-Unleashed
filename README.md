@@ -68,7 +68,7 @@ the set consist of 2 tools:
 
 
 
-**Flow** | Version 0.0.4 | [Link](https://mega.nz/file/I15CEAQC#FpGAC2XijK8Zmf-LixxxlVnDHR-LbrjGQN41PLojU2E "Link")
+**Flow** | Version 0.0.5 | [Link](https://mega.nz/file/Io40xSpC#hV4RqTqHHJf5k2aF3_LnsyYgcdn5oM1Wsig73EY1oYY "Link")
 
 Flow is a user-friendly, layer-based combo editor, made to create (or modify) BCM files for movesets
 
