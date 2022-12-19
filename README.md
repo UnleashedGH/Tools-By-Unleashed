@@ -125,4 +125,5 @@ a tool that recolors effect IDs in BSA, BDM and ShotBDM files. should be combine
 **Skill Damage Scaler** | [Link](https://mega.nz/file/R0BTCALZ#wpzoXtbWEIFlETDRqbTzLVqCE5mvxVy0BFt9f7VhuLo "Link")
 
 a tool that scales a skill's damage of any type (Bac, System's Grab Damage, Bdm, ShotBdm) through a specificed Scale Factor
+
 ==========================================================================
