@@ -47,7 +47,7 @@ this is done by utilizing ChildGoTo links, which are normally used for loops.
 
 ==========================================================================
 
-**DBXV2-Camera-Animation-Exporter** | Version 1.1 | [Link](https://mega.nz/file/M0wClDzK#6hyZnV6-OOs5H1dR_yl-Dn8IUyAL1b7H0JldhTvrl98 "Link")
+**DBXV2-Camera-Animation-Exporter** | Version 1.2 | [Link](https://mega.nz/file/MsBBWJaa#StncKn-oXZkHUnKgZ2LatTfDpkwJFr_ViqlQgI4k7Zw "Link")
 
 A Blender addon that can export camera animations directly to .cam.ean 
 
